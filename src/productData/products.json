@@ -1,0 +1,12 @@
+{
+  "productList": [
+    {
+      "productName": "Premium Wireless Headphones",
+      "productDetails": "Experience studio-quality sound with active noise cancellation and 30-hour battery life",
+      "originalPrice": 299.99,
+      "offerPrice": 199.99,
+      "productTag": "New Arrivals",
+      "productImage":"/product-headphones.jpg"
+    }
+  ]
+}
